@@ -16,4 +16,4 @@ Currently only supports HTTP URL, local file, Google spreadsheets. Future suppor
 
 ### build
 Use pyinstaller, if not installed, use `pip install -U pyinstaller` to install it.
-> pyinstaller visit.py
+> pyinstaller visit.py -F
