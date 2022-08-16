@@ -13,3 +13,7 @@ Currently supports `.csv`, `.tsv` and `.json`, for JSON type, it has to be rows 
 
 ### protocols
 Currently only supports HTTP URL, local file, Google spreadsheets. Future support may include cloud storage (eg. S3) and Excel online.
+
+### build
+Use pyinstaller, if not installed, use `pip install -U pyinstaller` to install it.
+> pyinstaller visit.py
