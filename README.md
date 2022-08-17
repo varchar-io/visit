@@ -2,10 +2,16 @@
 `visit` is short for "visualize it" - a single command line to publish a visual story for given data.
 
 ### install
-> ~% brew tap varchar-io/visit && brew install visit
+Execute in a terminal:
+``` bash
+brew tap varchar-io/visit && brew install visit
+```
 
 ### demo
-> ~% visit gdp-state.csv
+Type in terminal
+``` bash
+visit gdp-state.csv
+```
 >
 > Visit URL: https://columns.ai/visual/93yYkQWBXXDyR1/T-sto2e3DKmsofyT
 
@@ -21,4 +27,6 @@ Future support include data from HTTP URL, Google spreadsheets and cloud storage
 
 ### build
 Use pyinstaller, if not installed, use `pip install -U pyinstaller` to install it.
-> pyinstaller visit.py -F
+``` bash
+pyinstaller visit.py -F
+```
