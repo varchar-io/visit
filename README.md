@@ -1,4 +1,4 @@
-![Visit](visit.png | width=100x100)
+![Visit](visit.png)
 
 # visit
 `visit` is short for "visualize it" - a single command line to publish a visual story for given data.
