@@ -6,7 +6,8 @@
 
 ### demo
 > ~% visit gdp-state.csv
-> Visit URL: https://columns.ai/visual/93yYkQWBXXDyR1/T-sto2e3DKmsofyT
+
+> ~% Visit URL: https://columns.ai/visual/93yYkQWBXXDyR1/T-sto2e3DKmsofyT
 
 ![visit demo graph](imgs/visit-demo.png)
 
