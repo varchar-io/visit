@@ -2,12 +2,12 @@
 `visit` is short for "visualize it" - a single command line to publish a visual story for given data.
 
 ### install
-> ~% brew install visit
+> ~% brew tap varchar-io/visit && brew install visit
 
 ### demo
 > ~% visit gdp-state.csv
-
-> ~% Visit URL: https://columns.ai/visual/93yYkQWBXXDyR1/T-sto2e3DKmsofyT
+>
+> Visit URL: https://columns.ai/visual/93yYkQWBXXDyR1/T-sto2e3DKmsofyT
 
 ![visit demo graph](imgs/visit-demo.png)
 
@@ -16,6 +16,7 @@ Currently supports `.csv`, `.tsv` and `.json`, for JSON type, it has to be rows 
 
 ### protocols
 Currently only supports a local csv.
+
 Future support include data from HTTP URL, Google spreadsheets and cloud storage (eg. S3) and Excel online.
 
 ### build

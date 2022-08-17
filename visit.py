@@ -7,8 +7,8 @@ import webbrowser
 from models import VisitRequest
 
 HOST = "https://columns.ai"
-DEV_HOST = "http://localhost:8088"
-SERVER = DEV_HOST + "/api/sdk/visit"
+# DEV_HOST = "http://localhost:8088"
+SERVER = HOST + "/api/sdk/visit"
 APIKEY = "public"
 USAGE = """
 Visit = Visualize It
